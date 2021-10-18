@@ -1,0 +1,11 @@
+D:\Study\Measurement & Control by Computer\On bai\MaxMin\bin\Debug\MaxMin.exe
+D:\Study\Measurement & Control by Computer\On bai\MaxMin\bin\Debug\MaxMin.pdb
+D:\Study\Measurement & Control by Computer\On bai\MaxMin\bin\Debug\MaxMin.xml
+D:\Study\Measurement & Control by Computer\On bai\MaxMin\obj\Debug\MaxMin.vbproj.AssemblyReference.cache
+D:\Study\Measurement & Control by Computer\On bai\MaxMin\obj\Debug\MaxMin.Form1.resources
+D:\Study\Measurement & Control by Computer\On bai\MaxMin\obj\Debug\MaxMin.Resources.resources
+D:\Study\Measurement & Control by Computer\On bai\MaxMin\obj\Debug\MaxMin.vbproj.GenerateResource.cache
+D:\Study\Measurement & Control by Computer\On bai\MaxMin\obj\Debug\MaxMin.vbproj.CoreCompileInputs.cache
+D:\Study\Measurement & Control by Computer\On bai\MaxMin\obj\Debug\MaxMin.exe
+D:\Study\Measurement & Control by Computer\On bai\MaxMin\obj\Debug\MaxMin.xml
+D:\Study\Measurement & Control by Computer\On bai\MaxMin\obj\Debug\MaxMin.pdb

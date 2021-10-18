@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:pro",
+    "port": "COM18",
+    "sketch": "MaxMin_arduino.ino"
+}
